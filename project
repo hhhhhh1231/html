@@ -54,5 +54,118 @@
         <td>rehl814@uowmail.edu.au</td>
     </tr>
   </table>
-
+    <h1>Part 2: Hello World program in different languages</h1>
+        <ul>
+            <li>
+                <a href="#C++">C++</a>
+            </li>
+            <li>
+                <a href="#C#">C#</a>
+            </li>
+            <li>
+                <a href="#Python">Python</a>
+            </li>
+            <li>
+                <a href="#HTML">HTML</a>
+            </li>
+        </ul>
+        <hr />
+        <table border="0" style="border-collapse: collapse;">
+            <tr colspan="2">
+                <td>
+                    <h3 id="C++">C++</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../pics/CPP.jpg" width="150">
+                </td>
+                <td>
+<pre>
+<code>
+    #include &lt;iostream&gt;
+            
+    void main( ) {
+            cout &lt;&lt; &quot;Hello World!&quot; &lt;&lt; endl;
+    }           
+</code>
+</pre>
+                </td>
+            </tr>
+        </table>
+        <hr />
+        <table border="0" style="border-collapse: collapse;">
+            <tr>
+                <td>
+                    <h3 id="C#">C#</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../pics/CS.png" width="150">
+                </td>
+                <td>  
+<pre>
+    <code>
+    using System;
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine(&quot;Hello, World!&quot;);
+        }
+    }
+    </code>
+</pre>
+                </td>
+            </tr>
+        </table>
+        <hr />
+        <table border="0" style="border-collapse: collapse;">
+            <tr>
+                <td>
+                    <h3 id="Python">Python</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../pics/python.jpg" width="150">
+                </td>
+                <td>
+<pre>
+    <code>
+    # Hello World program in Python
+    print(&quot;Hello World!&quot;)
+    </code>
+</pre>
+                </td>
+            </tr>
+        </table>
+        <hr />
+        <table border="0" style="border-collapse: collapse;">
+            <tr>
+                <td>
+                    <h3 id="HTML">HTML</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../pics/HTML.png" width="150">
+                </td>
+                <td>
+<pre>
+    <code>
+    &lt;html&gt;
+    &lt;head&gt;
+    &lt;title&gt;Hello&lt;title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    Hello World!
+    &lt;/body&gt;
+    &lt;/html&gt;
+    </code>
+</pre>
+                </td>
+            </tr>
+        </table>
   <hr /> 
